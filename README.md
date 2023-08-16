@@ -1,27 +1,20 @@
 # awesome-list [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome)
 
-[![GitHub](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen/) &nbsp; [![Buy Me A Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://www.buymeacoffee.com/brandonhimpfen) &nbsp; [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) &nbsp; [![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://paypal.me/brandonhimpfen) &nbsp; [![Sponsor Project](https://srv-cdn.himpfen.io/badges/sponsor-project/sponsor-project-flat.svg)](https://brandon.tiny.us/donate)
+An awesome list of projects focusing on the development of [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
 
-> A curated list of resources for
+# projects
 
-## Contents
+- [botpress](https://github.com/botpress/botpress) ![](https://img.shields.io/github/stars/botpress/botpress.svg?style=social)
+- [haystack](https://github.com/deepset-ai/haystack) ![](https://img.shields.io/github/stars/deepset-ai/haystack.svg?style=social)
+- [e2b](https://github.com/e2b-dev/e2b) ![](https://img.shields.io/github/stars/e2b-dev/e2b.svg?style=social)
+- [superagent](https://github.com/homanp/superagent) ![](https://img.shields.io/github/stars/homanp/superagent.svg?style=social)
+- [langroid](https://github.com/langroid/langroid) ![](https://img.shields.io/github/stars/langroid/langroid.svg?style=social)
 
-- [Section](#section)
-- [Another Section](#another-section)
 
-## Section
+# other lists
 
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+* https://github.com/tensorchord/Awesome-LLMOps
+* https://github.com/e2b-dev/awesome-ai-agents
 
 
 ## Contribute
